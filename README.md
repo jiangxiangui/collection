@@ -13,3 +13,5 @@
 ### 前端：http://www.f2enav.com/
 
 ### 前端导航：http://www.haorooms.com/nav
+
+## vue+webpack项目|简书 http://www.jianshu.com/c/de995678ae72
