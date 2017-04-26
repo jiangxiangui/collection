@@ -12,6 +12,12 @@
 ## vue+webpack项目|简书 
  
  http://www.jianshu.com/c/de995678ae72
+ 
+ ## 博客 
+ | 博主| 网址|
+ |:----:|:----|
+ |trigkit4| https://segmentfault.com/blog/trigkit4 |
+ 
 
 ## 前端相关网址收藏
 
