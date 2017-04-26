@@ -1,5 +1,12 @@
 # collection
 
+## GitHub上值得关注的前端项目：
+ 
+ https://segmentfault.com/a/1190000002804472
+
+## 前端开发面试题
+ https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions
+
 ## 网址收藏
 
 ### 前端里：http://www.yyyweb.com/
