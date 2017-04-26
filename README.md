@@ -1,8 +1,10 @@
 # collection
 
 ## GitHub上值得关注的前端项目：
+
+ https://github.com/hawx1993/github-FE-project 
  
- https://segmentfault.com/a/1190000002804472
+ https://segmentfault.com/a/1190000002804472 (已停止更新)
 
 ## 前端开发面试题
  https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions
