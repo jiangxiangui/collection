@@ -30,7 +30,7 @@ github: http://markof.github.io/frontend.site.nav/
  | 博主| 网址|
  |:----:|:----|
  |trigkit4| https://segmentfault.com/blog/trigkit4 |
- | | |
+ 
  |团队| 网址|
  |:----:|:----|
  |搜车前端团队博客|https://f2e.souche.com/blog/|
