@@ -30,6 +30,11 @@ github: http://markof.github.io/frontend.site.nav/
  | 博主| 网址|
  |:----:|:----|
  |trigkit4| https://segmentfault.com/blog/trigkit4 |
+ | | |
+ |团队| 网址|
+ |:----:|:----|
+ |搜车前端团队博客|https://f2e.souche.com/blog/|
+ | | |
  
  ## 思维导图
 跟着9张思维导图学习Javascript： http://www.cnblogs.com/coco1s/p/3953653.html#!comments
