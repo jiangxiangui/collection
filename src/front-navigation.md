@@ -21,6 +21,11 @@ HTML5中国：中国最大的HTML5中文门户| http://www.html5cn.org/
 V2EX|https://www.v2ex.com/
 光谷社区|http://www.guanggoo.com/
 
+## 资讯
+|name|site
+|:---:|:---
+|百度百家|http://baijia.baidu.com/
+
 ## 个人博客
 |博客名|网址|
 |:----:|:----|
