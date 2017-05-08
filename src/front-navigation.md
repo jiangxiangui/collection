@@ -10,6 +10,7 @@ Web前端资源网 - 前端网址导航-汇聚国内外优秀站点资源！| ht
 前端导航站 - 前端工程师专用的导航站| http://123.jser.us/
 前端导航-为前端而生| http://fenav.com/
 前端网址导航| http://daohang.wangmin.name/
+前端导航|http://daohangcom.com/
 
 ## 论坛社区
 |name|site|
