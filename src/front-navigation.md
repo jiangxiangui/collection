@@ -22,6 +22,12 @@ HTML5中国：中国最大的HTML5中文门户| http://www.html5cn.org/
 V2EX|https://www.v2ex.com/
 光谷社区|http://www.guanggoo.com/
 
+## 书籍
+|name|site
+|:---:|:---
+|计算机书籍控|http://bestcbooks.com/
+|hao123-免费资源部落|https://www.freehao123.com/
+
 ## 资讯
 |name|site
 |:---:|:---
